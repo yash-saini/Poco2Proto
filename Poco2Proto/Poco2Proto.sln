@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poco2Proto", "Poco2Proto.csproj", "{B55C3B1E-9A79-4296-BCC7-37BF16F3DE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poco2Proto.Test", "..\Poco2Proto.Test\Poco2Proto.Test.csproj", "{A0449EFB-F81E-49C6-BAF9-5712B8450182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55C3B1E-9A79-4296-BCC7-37BF16F3DE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C3B1E-9A79-4296-BCC7-37BF16F3DE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C3B1E-9A79-4296-BCC7-37BF16F3DE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C3B1E-9A79-4296-BCC7-37BF16F3DE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0449EFB-F81E-49C6-BAF9-5712B8450182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0449EFB-F81E-49C6-BAF9-5712B8450182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0449EFB-F81E-49C6-BAF9-5712B8450182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0449EFB-F81E-49C6-BAF9-5712B8450182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6A4E11-1686-4181-818B-EFFD906708D9}
+	EndGlobalSection
+EndGlobal
